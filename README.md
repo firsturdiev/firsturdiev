@@ -1,4 +1,6 @@
-### Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A588B4&center=true&vCenter=true&width=500&lines=Frontend+developer;Perfectionist;Motivator)](https://git.io/typing-svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firsturdiev&show_icons=true&theme=radical)
 
 <!--
 **firsturdiev/firsturdiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
