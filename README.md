@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **firsturdiev@gmail.com**
+- 📫 Reach me at **firsturdiev@gmail.com**
 
-- ⚡ Fun fact **I'm developer but I interest to 3D design**
+- ⚡ **I'm developer but I interest to 3D design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
