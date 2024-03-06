@@ -2,7 +2,6 @@
 <h3 align="center">18 y.o perfectionist developer from the ancient Samarkand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firsturdiev&label=Profile%20views&color=0e75b6&style=flat" alt="firsturdiev" /> </p>
-<svg><script>alert(1)</script></svg>
 
 - 🔭 I’m currently working on [Najot Ta'lim Redesign](https://github.com/inspirationjon/nt-redesign)
 
